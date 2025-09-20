@@ -6,7 +6,7 @@ def ini():
   print("""
         
         
-          SISTEMA VALIDATION!!
+          SISTEMA VALIDATION
         
 
         ESCOLHA A OPÇÃO ABAIXO:
