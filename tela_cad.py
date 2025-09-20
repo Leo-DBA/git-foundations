@@ -6,11 +6,7 @@ def ini():
   print("""
         
         
-<<<<<<< HEAD
           VALIDATION
-=======
-          SISTEMA VALIDATION
->>>>>>> dev
         
 
         ESCOLHA A OPÇÃO ABAIXO:
