@@ -1,2 +1,2 @@
 # git-foundations
-Repositorio de estudos para prove de certificação!
+Repositorio de estudos para prova de certificação!
